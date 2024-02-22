@@ -1,0 +1,10 @@
+body{
+    background-image: url("image.jpeg"); 
+    background-repeat: no-repeat; 
+    background-size: 100%;
+}
+button{
+    height:20px;
+    width: 30px;
+    border-radius: 20px;
+}
